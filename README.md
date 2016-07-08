@@ -1,8 +1,15 @@
 #Animal Sounds
 Fun react app for Felix!
 
-#Section for Joe (Put the animals you want here!):
-- Sheep
+# Potential Animal Sounds
+
+* sheep
+* owls
+* cats
+* dogs
+* cows
+
+
 
 #To run:
 ```
