@@ -1,11 +1,12 @@
 #Animal Sounds
-Fun react app for Felix! 
+Fun react app for Felix!
 
-#TODO:
-- Cow
-- Dog
-- Chicken
-- Duck
+#Section for Joe (Put the animals you want here!):
+- Sheep
 
-#EXTRA
-- B-MO!
+#To run:
+```
+npm install
+node server
+localhost:3000
+```
