@@ -1,12 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
 body {
-  background: #fff;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center;
+  background-image: url("/img/farmbg.png");
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
   font-size: 15px;
   line-height: 1.7;
   margin: 0;
   padding: 30px;
 }
 
+.intro {
+  font-size: 40px;
+  letter-spacing: 2px;
+}
 a {
   color: #4183c4;
   text-decoration: none;
