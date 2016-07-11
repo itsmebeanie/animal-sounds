@@ -1,9 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Varela+Round);
 
 body {
   text-align: center;
-  background-image: url("/img/farmbg.png");
-  font-family: "Montserrat", Helvetica, Arial, sans-serif;
+  font-family: "Varela Round", Helvetica, Arial, sans-serif;
   font-size: 15px;
   line-height: 1.7;
   margin: 0;
@@ -11,8 +10,9 @@ body {
 }
 
 .intro {
-  font-size: 40px;
-  letter-spacing: 2px;
+  font-size: 8vh;
+  letter-spacing: 5px;
+  text-transform: uppercase;
 }
 a {
   color: #4183c4;
