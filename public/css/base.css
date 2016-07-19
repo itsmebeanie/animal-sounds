@@ -5,14 +5,16 @@ body {
   font-family: "Varela Round", Helvetica, Arial, sans-serif;
   font-size: 15px;
   line-height: 1.7;
-  margin: 0;
+  margin: 10px;
   padding: 30px;
+  background: #579ce9 url("../img/farmbg2.png") no-repeat center center fixed;
 }
 
 .intro {
   font-size: 8vh;
   letter-spacing: 5px;
   text-transform: uppercase;
+  color: #fcfaf2;
 }
 a {
   color: #4183c4;
